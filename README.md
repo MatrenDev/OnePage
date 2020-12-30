@@ -1,4 +1,4 @@
 # OnePage
 
 
-Site built to test sample scripts. MIT license.
+Site built to test sample scripts.
